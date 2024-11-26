@@ -1,0 +1,68 @@
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\bin\Debug\Pelu.exe
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\bin\Debug\Pelu.pdb
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\bin\Debug\Pelu.xml
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.vbprojResolveAssemblyReference.cache
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.Resources.resources
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.vbproj.GenerateResource.Cache
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.exe
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.xml
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.pdb
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.FormCliente.resources
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.FormPrincipal.resources
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.FormProductosServicios.resources
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.FormVentas.resources
+C:\Users\Gera\Desktop\Proyecto Peluqueria\Pelu\Pelu\obj\Debug\Pelu.FormMovimientos.resources
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.exe
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.xml
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.pdb
+C:\Users\grios\Desktop\Pelu\Pelu\bin\Debug\Pelu.exe
+C:\Users\grios\Desktop\Pelu\Pelu\bin\Debug\Pelu.pdb
+C:\Users\grios\Desktop\Pelu\Pelu\bin\Debug\Pelu.xml
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.vbprojResolveAssemblyReference.cache
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.FormCliente.resources
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.FormPrincipal.resources
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.FormProductosServicios.resources
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.FormVentas.resources
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.FormMovimientos.resources
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.Resources.resources
+C:\Users\grios\Desktop\Pelu\Pelu\obj\Debug\Pelu.vbproj.GenerateResource.Cache
+E:\Pelu\Pelu\obj\Debug\Pelu.exe
+E:\Pelu\Pelu\obj\Debug\Pelu.xml
+E:\Pelu\Pelu\obj\Debug\Pelu.pdb
+E:\Pelu\Pelu\bin\Debug\Pelu.exe
+E:\Pelu\Pelu\bin\Debug\Pelu.pdb
+E:\Pelu\Pelu\bin\Debug\Pelu.xml
+E:\Pelu\Pelu\obj\Debug\Pelu.vbprojResolveAssemblyReference.cache
+E:\Pelu\Pelu\obj\Debug\Pelu.FormCliente.resources
+E:\Pelu\Pelu\obj\Debug\Pelu.FormPrincipal.resources
+E:\Pelu\Pelu\obj\Debug\Pelu.FormProductosServicios.resources
+E:\Pelu\Pelu\obj\Debug\Pelu.FormVentas.resources
+E:\Pelu\Pelu\obj\Debug\Pelu.FormMovimientos.resources
+E:\Pelu\Pelu\obj\Debug\Pelu.Resources.resources
+E:\Pelu\Pelu\obj\Debug\Pelu.vbproj.GenerateResource.Cache
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.exe
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.xml
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.pdb
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\bin\Debug\Pelu.exe
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\bin\Debug\Pelu.pdb
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\bin\Debug\Pelu.xml
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.vbprojResolveAssemblyReference.cache
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormCliente.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormPrincipal.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormProductosServicios.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormVentas.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.Resources.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.vbproj.GenerateResource.Cache
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormConsultaVentas.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormTarjetas.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormConsultaCuentas.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormConsultaCuentaCorriente.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormIngresosProductos.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormConsultaMovimientos.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\obj\Debug\Pelu.FormMovimientos.resources
+C:\Users\Gera\Desktop\Pelu OFICINA\Pelu\bin\Debug\PELU.exe.config
+C:\Users\Gera\Desktop\JuliJo\Pelu\bin\Debug\PELU.exe.config
+C:\Users\Gera\Desktop\JuliJo\Pelu\obj\Debug\PELU.exe
+C:\Users\Gera\Desktop\JuliJo\Pelu\obj\Debug\PELU.xml
+C:\Users\Gera\Desktop\JuliJo\Pelu\obj\Debug\PELU.pdb
+C:\Users\Gera\Desktop\JuliJo\Pelu\bin\Debug\JuliJo.exe.config
